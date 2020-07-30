@@ -1,6 +1,6 @@
 ## はじめに
 
-PHPStormのバージョン管理のヘルパー機能である、`Local Changes`と`Shelf`の使い方メモです。
+PHPStormのバージョン管理のヘルパー機能である、`Local Changes`の使い方メモです。
 
 詳細は公式ドキュメントを参照してください。
   → [Gitを使用して複数の機能を同時に処理する](https://pleiades.io/help/phpstorm/work-on-several-features-simultaneously.html)
@@ -97,4 +97,3 @@ drwxr-xr-x   9 mitsuoka-takahiro  staff  288  7 29 21:19 .git/
 
 変更リストを使うことで、開発中のファイルをグループ化して管理し、そのまま1つのコミットとすることができます。
 
-## Shelfにしまう
