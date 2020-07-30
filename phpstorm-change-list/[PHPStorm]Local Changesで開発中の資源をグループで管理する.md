@@ -34,11 +34,11 @@ drwxr-xr-x   9 mitsuoka-takahiro  staff  288  7 29 21:19 .git/
 `View > Tool Windows > Git`から開くことができます。
 ショートカットはデフォルトで`⌘9`に設定されています。
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic1.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic1.png">
 
 このような感じのウィンドウが開きます。
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic2.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic2.png">
 
 ## 変更リストで変更をまとめる(Local Changes)
 
@@ -59,7 +59,7 @@ drwxr-xr-x   9 mitsuoka-takahiro  staff  288  7 29 21:19 .git/
 
 Gitツールウィンドウはこのようになっていると思います。
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic3.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic3.png">
 
 ### 変更リストでまとめる
 
@@ -68,13 +68,13 @@ drwxr-xr-x   9 mitsuoka-takahiro  staff  288  7 29 21:19 .git/
 変更リストの名前を聞かれるので、機能Aを追加するという意味で`add feature A`としておきます。
 （変更リストの名前はデフォルトのコミットメッセージとなるので、コミットメッセージを意識してつけておくのがオススメです）
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic4.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic4.png">
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic5.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic5.png">
 
 新しい変更リストが作成されるので、`a1.txt`と`a2.txt`をドラッグして変更リストに追加します。
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic6.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic6.png">
 
 これで、変更リスト`add feature A`に`a1.txt`と`a2.txt`を追加することができました。
 
@@ -83,11 +83,11 @@ drwxr-xr-x   9 mitsuoka-takahiro  staff  288  7 29 21:19 .git/
 `⌘K`でコミットウィンドウを開きます。
 デフォルトでは、`b2.txt`のみが表示されています。
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic7.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic7.png">
 
 ウィンドウ上部の`Changelist`から`add feature A`を選択します。
 
-<img width="600" src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic8.png">
+<img src="https://github.com/tmitsuoka0423/qiita/raw/master/phpstorm-change-list/pic8.png">
 
 変更リスト`add feature A`を選択したので、`a1.txt`と`a2.txt`が表示されました。
 また、コミットメッセージに`add feature A`が表示されました。
